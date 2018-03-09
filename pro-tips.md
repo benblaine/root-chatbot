@@ -6,7 +6,7 @@ This is a collection of things that others have been caught up on before, which 
 As you go, please add anything that you pick up too.
 
 ### Bots
-- We <b>highly, highly</b> suggest reading [this](https://developers.google.com/actions/design/walkthrough) about designing conversations and writing out a script for your bot.
+- We <b>highly, highly</b> suggest reading [this](https://developers.google.com/actions/design/walkthrough) about designing conversations and writing out a script for your bot. Have a look at the [example conversation](https://offerzen-make.slack.com/archives/C92LH0067/p1518527314000245) that Simon and Arrie created.
 
 ### DialogFlow
 - Remember to push `ENTER` to save rows of information in DialogFlow
