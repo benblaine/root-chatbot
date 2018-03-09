@@ -34,6 +34,9 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 
 ## Some Useful Resources
 
+### Useful exercises
+- [Write out a conversation flow](https://offerzen-make.slack.com/archives/C92LH0067/p1518527314000245)
+
 ### DialogFlow
 
 - [Basic Tutorial](https://developers.google.com/actions/dialogflow/first-app) 
